@@ -1,5 +1,5 @@
 # layout: page 
 # title: “My Projects” 
-# permalink: /myproject
+# permalink: /myprojects
 
 Link: https://github.com/LowerBoard/fcl-fantasy-cycling-league
